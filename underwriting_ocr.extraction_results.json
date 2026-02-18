@@ -1,0 +1,1074 @@
+[{
+  "_id": {
+    "$oid": "6943fd2a1114178fd0bae544"
+  },
+  "document_id": "doc_bb3609248cb3",
+  "document_type": "AADHAAR",
+  "extracted_fields": {
+    "name": "Aman Kumar Sah",
+    "aadhaar_number": "6384 7731 9345",
+    "date_of_birth": "2001-01-14",
+    "gender": "MALE",
+    "address": "BINDON KUMAR SAH, LANKA ROAD, KHAGARABARI, VTC: Birpara Tea Garden, PO: Birpara, District: Alipurduar, State: West Bengal",
+    "pincode": "735204",
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "father_name": null,
+    "husband_name": null,
+    "photo_present": true
+  },
+  "confidence_scores": {
+    "name": 0.85,
+    "aadhaar_number": 0.85,
+    "date_of_birth": 0.85,
+    "gender": 0.7,
+    "address": 0.85,
+    "pincode": 0.85,
+    "state": 0.85,
+    "district": 0.85,
+    "father_name": 0,
+    "husband_name": 0,
+    "photo_present": 0.9
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-18T13:10:02.661Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "6943fd3ce560529798e7fcd9"
+  },
+  "document_id": "doc_bb3609248cb3",
+  "document_type": "AADHAAR",
+  "extracted_fields": {
+    "name": "Aman Kumar Sah",
+    "aadhaar_number": "6384 7731 9345",
+    "date_of_birth": "2001-01-14",
+    "gender": "MALE",
+    "address": "BINDON KUMAR SAH, LANKA ROAD, KHAGRABARI, BIRPARA TARA GARDEN, PO: Birpara, District: Alipurduar, State: West Bengal",
+    "pincode": "735204",
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "father_name": null,
+    "husband_name": null,
+    "photo_present": true
+  },
+  "confidence_scores": {
+    "name": 0.85,
+    "aadhaar_number": 0.85,
+    "date_of_birth": 0.85,
+    "gender": 0.7,
+    "address": 0.85,
+    "pincode": 0.85,
+    "state": 0.85,
+    "district": 0.85,
+    "father_name": 0,
+    "husband_name": 0,
+    "photo_present": 0.9
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-18T13:10:20.249Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "6943fe47e560529798e7fcdc"
+  },
+  "document_id": "doc_71f649ab959d",
+  "document_type": "PAYSLIP",
+  "extracted_fields": {
+    "employee_name": "Aman kumar Sah",
+    "employee_id": "KAR2559",
+    "month": 7,
+    "year": 2025,
+    "company_name": "KAARA INFO SYSTEMS PVT LTD",
+    "salary": {
+      "gross_salary": 132369,
+      "basic_salary": 45678,
+      "hra": 12345,
+      "allowances": {
+        "conveyance": 2345,
+        "medical_allowance": 1111,
+        "special_allowance": 67890,
+        "children_education_allowance": 500,
+        "lta": 2500
+      },
+      "deductions": {
+        "pf": 4321,
+        "professional_tax": 200
+      },
+      "net_salary": 127848
+    },
+    "optional_fields": {
+      "bank_account": "396602011003852",
+      "ifsc_code": "UBIN0539654",
+      "pf_number": "AP/KKP/1601183/000/0010239",
+      "esi_number": null,
+      "tax_deductions": null
+    }
+  },
+  "confidence_scores": {
+    "employee_name": 0.85,
+    "employee_id": 0.85,
+    "month": 0.9,
+    "year": 0.9,
+    "company_name": 0.85,
+    "salary": 0.8,
+    "optional_fields": 0.8
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-18T13:14:47.073Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "6943fe65e560529798e7fcdd"
+  },
+  "document_id": "doc_71f649ab959d",
+  "document_type": "PAYSLIP",
+  "extracted_fields": {
+    "employee_name": "Aman kumar Sah",
+    "employee_id": "KAR2559",
+    "month": 7,
+    "year": 2025,
+    "company_name": "KAARA INFO SYSTEMS PVT LTD",
+    "salary": {
+      "gross_salary": 132369,
+      "basic_salary": 45678,
+      "hra": 12345,
+      "allowances": {
+        "conveyance": 2345,
+        "medical_allowance": 1111,
+        "special_allowance": 67890,
+        "children_education_allowance": 500,
+        "lta": 2500
+      },
+      "deductions": {
+        "pf": 4321,
+        "professional_tax": 200
+      },
+      "net_salary": 127848
+    },
+    "optional_fields": {
+      "bank_account": "396602011003852",
+      "ifsc_code": "UBIN0539655",
+      "pf_number": "AP/KKP/1601183/000/0010239",
+      "esi_number": null,
+      "tax_deductions": null
+    }
+  },
+  "confidence_scores": {
+    "employee_name": 0.85,
+    "employee_id": 0.85,
+    "month": 0.9,
+    "year": 0.9,
+    "company_name": 0.85,
+    "salary": 0.8,
+    "optional_fields": 0.8
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-18T13:15:17.750Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "694508e221cb9aeabf5fe055"
+  },
+  "document_id": "doc_4fe777b4fb2a",
+  "document_type": "AADHAAR",
+  "extracted_fields": {
+    "name": "Aman Kumar Sah",
+    "aadhaar_number": "6384 7731 9345",
+    "date_of_birth": "2001-01-14",
+    "gender": "MALE",
+    "address": "BINDON KUMAR SAH, LANKA ROAD, KHAGRABARI, VTC: Birpara Tea Garden, PO: Birpara, District: Alipurduar, State: West Bengal",
+    "pincode": "735204",
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "father_name": null,
+    "husband_name": null,
+    "photo_present": true
+  },
+  "confidence_scores": {
+    "name": 0.85,
+    "aadhaar_number": 0.85,
+    "date_of_birth": 0.85,
+    "gender": 0.7,
+    "address": 0.85,
+    "pincode": 0.85,
+    "state": 0.85,
+    "district": 0.85,
+    "father_name": 0,
+    "husband_name": 0,
+    "photo_present": 0.9
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-19T08:12:18.942Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "69452045f4516757fd733fc2"
+  },
+  "document_id": "doc_bdeb09c1341a",
+  "document_type": "BANK_STATEMENT",
+  "extracted_fields": {
+    "account_number": "789654123780",
+    "account_holder_name": "Kumar B",
+    "bank_name": "Punjab National Bank",
+    "statement_period_from": "2024-11-02",
+    "statement_period_to": "2024-11-26",
+    "balance": {
+      "opening_balance": 4511,
+      "closing_balance": 183037,
+      "minimum_balance": 4511
+    },
+    "transactions": [
+      {
+        "date": "2024-11-02",
+        "description": "UPI Debit",
+        "debit": 9889,
+        "credit": null,
+        "balance": 4511,
+        "type": "DEBIT"
+      },
+      {
+        "date": "2024-11-03",
+        "description": "UPI Credit",
+        "debit": null,
+        "credit": 18604,
+        "balance": 63715,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-04",
+        "description": "UPI Credit",
+        "debit": null,
+        "credit": 7389,
+        "balance": 71104,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-05",
+        "description": "NEFT Credit",
+        "debit": null,
+        "credit": 17014,
+        "balance": 88118,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-06",
+        "description": "UPI Debit",
+        "debit": 6310,
+        "credit": null,
+        "balance": 81808,
+        "type": "DEBIT"
+      },
+      {
+        "date": "2024-11-07",
+        "description": "IMPS Debit",
+        "debit": 9932,
+        "credit": null,
+        "balance": 71876,
+        "type": "DEBIT"
+      },
+      {
+        "date": "2024-11-08",
+        "description": "UPI Credit",
+        "debit": null,
+        "credit": 19072,
+        "balance": 90948,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-09",
+        "description": "NEFT Credit",
+        "debit": null,
+        "credit": 10800,
+        "balance": 101748,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-10",
+        "description": "POS Debit",
+        "debit": 15574,
+        "credit": null,
+        "balance": 86174,
+        "type": "DEBIT"
+      },
+      {
+        "date": "2024-11-11",
+        "description": "POS Debit",
+        "debit": 600,
+        "credit": null,
+        "balance": 85574,
+        "type": "DEBIT"
+      },
+      {
+        "date": "2024-11-12",
+        "description": "IMPS Credit",
+        "debit": null,
+        "credit": 15992,
+        "balance": 101566,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-13",
+        "description": "IMPS Debit",
+        "debit": 8421,
+        "credit": null,
+        "balance": 93145,
+        "type": "DEBIT"
+      },
+      {
+        "date": "2024-11-14",
+        "description": "UPI Debit",
+        "debit": 12478,
+        "credit": null,
+        "balance": 80667,
+        "type": "DEBIT"
+      },
+      {
+        "date": "2024-11-15",
+        "description": "NEFT Credit",
+        "debit": null,
+        "credit": 14398,
+        "balance": 95065,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-16",
+        "description": "IMPS Credit",
+        "debit": null,
+        "credit": 18269,
+        "balance": 113334,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-17",
+        "description": "IMPS Credit",
+        "debit": null,
+        "credit": 5236,
+        "balance": 118570,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-18",
+        "description": "IMPS Credit",
+        "debit": null,
+        "credit": 16342,
+        "balance": 134912,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-19",
+        "description": "Salary Credit",
+        "debit": null,
+        "credit": 2758,
+        "balance": 137670,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-20",
+        "description": "UPI Credit",
+        "debit": null,
+        "credit": 16520,
+        "balance": 154190,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-21",
+        "description": "IMPS Debit",
+        "debit": 1768,
+        "credit": null,
+        "balance": 152422,
+        "type": "DEBIT"
+      },
+      {
+        "date": "2024-11-22",
+        "description": "ATM Withdrawal",
+        "debit": 17017,
+        "credit": null,
+        "balance": 135405,
+        "type": "DEBIT"
+      },
+      {
+        "date": "2024-11-23",
+        "description": "UPI Credit",
+        "debit": null,
+        "credit": 7274,
+        "balance": 142679,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-24",
+        "description": "NEFT Credit",
+        "debit": null,
+        "credit": 17057,
+        "balance": 159736,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-25",
+        "description": "Salary Credit",
+        "debit": null,
+        "credit": 5316,
+        "balance": 165052,
+        "type": "CREDIT"
+      },
+      {
+        "date": "2024-11-26",
+        "description": "NEFT Credit",
+        "debit": null,
+        "credit": 17985,
+        "balance": 183037,
+        "type": "CREDIT"
+      }
+    ],
+    "ifsc_code": "PUNB0456723",
+    "branch_name": "Nagpur City Branch",
+    "account_type": "Savings"
+  },
+  "confidence_scores": {
+    "account_number": 0.85,
+    "account_holder_name": 0.85,
+    "bank_name": 0.85,
+    "statement_period_from": 0.85,
+    "statement_period_to": 0.85,
+    "balance": 0.8,
+    "transactions": 0.75,
+    "ifsc_code": 0.85,
+    "branch_name": 0.85,
+    "account_type": 0.85
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-19T09:52:05.663Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "694520c5f4516757fd733fc4"
+  },
+  "document_id": "doc_37adb36b69dc",
+  "document_type": "DRIVING_LICENSE",
+  "extracted_fields": {
+    "name": "KUMAR B",
+    "license_number": "5/0002/2010",
+    "date_of_birth": "2003-03-03",
+    "issue_date": "2010-02-02",
+    "expiry_date": "2030-01-02",
+    "address": "Kondhall, Dodki, Nagpur, Maharashtra - 441103",
+    "vehicle_classes": [],
+    "blood_group": "B+",
+    "father_name": "KUMAR A"
+  },
+  "confidence_scores": {
+    "name": 0.85,
+    "license_number": 0.85,
+    "date_of_birth": 0.85,
+    "issue_date": 0.85,
+    "expiry_date": 0.85,
+    "address": 0.85,
+    "vehicle_classes": 0.75,
+    "blood_group": 0.7,
+    "father_name": 0.85
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-19T09:54:13.691Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "6949274a7fbde9671518f84a"
+  },
+  "document_id": "doc_19298c0a0bb0",
+  "document_type": "RENT_AGREEMENT",
+  "extracted_fields": {
+    "landlord_name": "Mr. Vijay",
+    "tenant_name": "Mr. Rajesh Kumar",
+    "property_address": "Old No.2, New No.4, Second Floor, 3rd Street, Gachibowli, Telangana-500032",
+    "rent_amount": null,
+    "security_deposit": null,
+    "agreement_start_date": "2020-04-01",
+    "agreement_end_date": "2021-04-01",
+    "agreement_date": "2020-04-13",
+    "property_type": null,
+    "area_sqft": null,
+    "advance_amount": null,
+    "terms_and_conditions": "The term of lease would be for Twelve months only beginning on 01st April 2020."
+  },
+  "confidence_scores": {
+    "landlord_name": 0.85,
+    "tenant_name": 0.85,
+    "property_address": 0.85,
+    "rent_amount": 0,
+    "security_deposit": 0,
+    "agreement_start_date": 0.85,
+    "agreement_end_date": 0.85,
+    "agreement_date": 0.85,
+    "property_type": 0,
+    "area_sqft": 0,
+    "advance_amount": 0,
+    "terms_and_conditions": 0.85
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T11:11:06.595Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "6949279b7fbde9671518f84c"
+  },
+  "document_id": "doc_afa6bd010679",
+  "document_type": "WATER_BILL",
+  "extracted_fields": {
+    "consumer_number": "2157843979",
+    "consumer_name": "Rajesh Kumar",
+    "service_address": "Old No. 2, New No. 4, Second Floor, 3rd Street, Gachibowli, Telangana-500323",
+    "bill_number": "3289174576",
+    "bill_date": "2024-01-15",
+    "due_date": "2024-01-30",
+    "billing_period_from": "2023-10-16",
+    "billing_period_to": "2024-01-15",
+    "usage": {
+      "previous_reading": 1006,
+      "current_reading": 1089,
+      "units_consumed": 83
+    },
+    "charges": {
+      "fixed_charges": 60,
+      "water_charges": 830,
+      "sewerage_charges": 195,
+      "tax_amount": 21.7,
+      "total_amount": 1431.7
+    },
+    "payment_status": null,
+    "late_fee": null
+  },
+  "confidence_scores": {
+    "consumer_number": 0.85,
+    "consumer_name": 0.85,
+    "service_address": 0.85,
+    "bill_number": 0.85,
+    "bill_date": 0.85,
+    "due_date": 0.85,
+    "billing_period_from": 0.85,
+    "billing_period_to": 0.85,
+    "usage": 0.8,
+    "charges": 0.8,
+    "payment_status": 0,
+    "late_fee": 0
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T11:12:27.402Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "694928337fbde9671518f84e"
+  },
+  "document_id": "doc_d56faacd183b",
+  "document_type": "MEDICAL_BILLS",
+  "extracted_fields": {
+    "hospital_name": "CITY CARE MULTISPECIALITY HOSPITAL",
+    "patient_name": "Rajesh Kumar",
+    "bill_number": "EST/2023/1234S",
+    "bill_date": "2023-12-18",
+    "total_amount": 145950,
+    "services": [
+      {
+        "service_name": "Room Charges (Semi-Private)",
+        "service_date": "2023-12-18",
+        "amount": 17500
+      },
+      {
+        "service_name": "Surgeon Fees",
+        "service_date": "2023-12-18",
+        "amount": 45000
+      },
+      {
+        "service_name": "Anesthetist Fees",
+        "service_date": "2023-12-18",
+        "amount": 12000
+      },
+      {
+        "service_name": "Operation Theatre Charges",
+        "service_date": "2023-12-18",
+        "amount": 25000
+      },
+      {
+        "service_name": "Nursing Charges",
+        "service_date": "2023-12-18",
+        "amount": 6000
+      },
+      {
+        "service_name": "Medicines & Consumables",
+        "service_date": "2023-12-18",
+        "amount": 14000
+      },
+      {
+        "service_name": "Investigations (Blood Tests, X-Ray, USG)",
+        "service_date": "2023-12-18",
+        "amount": 8500
+      },
+      {
+        "service_name": "ICU Charges (if required)",
+        "service_date": "2023-12-18",
+        "amount": 6000
+      },
+      {
+        "service_name": "Miscellaneous Charges",
+        "service_date": "2023-12-18",
+        "amount": 5000
+      }
+    ],
+    "financial": {
+      "consultation_fee": null,
+      "medicine_charges": 14000,
+      "lab_charges": 8500,
+      "room_charges": 17500,
+      "other_charges": 6000
+    }
+  },
+  "confidence_scores": {
+    "hospital_name": 0.85,
+    "patient_name": 0.85,
+    "bill_number": 0.85,
+    "bill_date": 0.85,
+    "total_amount": 0.9,
+    "services": 0.75,
+    "financial": 0.8
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T11:14:59.533Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "694930f57fbde9671518f850"
+  },
+  "document_id": "doc_19373b934c8e",
+  "document_type": "GST_RETURN",
+  "extracted_fields": {
+    "gstin": "27AABC1234A1Z5",
+    "legal_name": "TECHSOLUTIONS PRIVATE LIMITED",
+    "trade_name": "TechSolutions India",
+    "return_period": "November 2024",
+    "filing_date": "2024-12-20",
+    "total_sales": 4500000,
+    "total_purchases": 2800000,
+    "output_tax": 153000,
+    "input_tax": 252000,
+    "tax_payable": 0,
+    "tax_paid": 0,
+    "address": "Office No. 304, Tower A, Cyber City, Magarpatta, Pune, Maharashtra - 411028",
+    "state": "Maharashtra",
+    "hsn_codes": []
+  },
+  "confidence_scores": {
+    "gstin": 0.85,
+    "legal_name": 0.85,
+    "trade_name": 0.85,
+    "return_period": 0.85,
+    "filing_date": 0.85,
+    "total_sales": 0.9,
+    "total_purchases": 0.9,
+    "output_tax": 0.9,
+    "input_tax": 0.9,
+    "tax_payable": 0.9,
+    "tax_paid": 0.9,
+    "address": 0.85,
+    "state": 0.85,
+    "hsn_codes": 0.75
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T11:52:21.249Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "6949316d7fbde9671518f852"
+  },
+  "document_id": "doc_4170ed8313f9",
+  "document_type": "DEALER_INVOICE",
+  "extracted_fields": {
+    "invoice_number": "INV-2024-001234",
+    "invoice_date": "2024-12-22",
+    "dealer_name": "AUTOCARE MOTORS PVT. LTD.",
+    "dealer_address": "Plot No. 45, Sector 18, Industrial Area, Gurugram, Haryana - 122015",
+    "customer_name": "Omnik Nema",
+    "customer_address": "Old No. 2, New No. 4, Second Floor, 3rd Street, Gachibowli, Telangana - 500323",
+    "items": [
+      {
+        "description": "Ex-Showroom Price",
+        "quantity": 1,
+        "unit_price": 1850000,
+        "total_price": 1850000
+      },
+      {
+        "description": "Road Tax",
+        "quantity": 1,
+        "unit_price": 185000,
+        "total_price": 185000
+      },
+      {
+        "description": "Insurance Charges",
+        "quantity": 1,
+        "unit_price": 42500,
+        "total_price": 42500
+      },
+      {
+        "description": "Registration Charges",
+        "quantity": 1,
+        "unit_price": 15000,
+        "total_price": 15000
+      },
+      {
+        "description": "Handling Charges",
+        "quantity": 1,
+        "unit_price": 8000,
+        "total_price": 8000
+      },
+      {
+        "description": "Accessories",
+        "quantity": 1,
+        "unit_price": 25000,
+        "total_price": 25000
+      }
+    ],
+    "subtotal": 2125500,
+    "tax_amount": 95140,
+    "total_amount": 2720640,
+    "payment_terms": "Bank Transfer",
+    "gstin": "06AABCA1234D1Z5",
+    "hsn_code": null,
+    "delivery_address": null
+  },
+  "confidence_scores": {
+    "invoice_number": 0.85,
+    "invoice_date": 0.85,
+    "dealer_name": 0.85,
+    "dealer_address": 0.85,
+    "customer_name": 0.85,
+    "customer_address": 0.85,
+    "items": 0.75,
+    "subtotal": 0.9,
+    "tax_amount": 0.9,
+    "total_amount": 0.9,
+    "payment_terms": 0.85,
+    "gstin": 0.85,
+    "hsn_code": 0,
+    "delivery_address": 0
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T11:54:21.037Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "694931e07fbde9671518f854"
+  },
+  "document_id": "doc_185a13a9239d",
+  "document_type": "LAND_RECORDS",
+  "extracted_fields": {
+    "survey_number": "124/2",
+    "village": "Kergodu",
+    "taluk": "Hunsur",
+    "district": "Mysuru",
+    "state": "Karnataka",
+    "area": "2.5 Hectares (6.18 Acres)",
+    "owner_name": "Omnik Nema",
+    "khata_number": null,
+    "patta_number": null,
+    "land_type": "Agricultural",
+    "boundaries": null,
+    "registration_date": null,
+    "mutation_number": null
+  },
+  "confidence_scores": {
+    "survey_number": 0.7,
+    "village": 0.85,
+    "taluk": 0.85,
+    "district": 0.85,
+    "state": 0.85,
+    "area": 0.85,
+    "owner_name": 0.85,
+    "khata_number": 0,
+    "patta_number": 0,
+    "land_type": 0.85,
+    "boundaries": 0,
+    "registration_date": 0,
+    "mutation_number": 0
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T11:56:16.576Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "694932a57fbde9671518f856"
+  },
+  "document_id": "doc_acd96c1034db",
+  "document_type": "CIBIL",
+  "extracted_fields": {
+    "report_date": "2024-04-15",
+    "consumer_name": "Rajesh Kumar",
+    "date_of_birth": "1984-09-05",
+    "pan_number": "EXXX8902P",
+    "CREDIT_SCORE": {
+      "credit_score": 741,
+      "score_range": "Not specified"
+    },
+    "ACCOUNTS": {
+      "total_accounts": 4,
+      "active_accounts": 3,
+      "closed_accounts": 1,
+      "accounts": [
+        {
+          "account_type": "Individual",
+          "lender_name": "ICICI BANK",
+          "account_number": "XXXXXX12",
+          "opening_date": "2010-12-05",
+          "current_balance": 70752,
+          "overdue_amount": 0,
+          "status": "ACTIVE"
+        },
+        {
+          "account_type": "Individual",
+          "lender_name": "ICICI FINANCE",
+          "account_number": "XXXXXX12",
+          "opening_date": "2016-05-05",
+          "current_balance": 58000,
+          "overdue_amount": 0,
+          "status": "ACTIVE"
+        },
+        {
+          "account_type": "Individual",
+          "lender_name": "ICICI BANK",
+          "account_number": "XXXXXX12",
+          "opening_date": "2021-09-10",
+          "current_balance": 0,
+          "overdue_amount": 0,
+          "status": "ACTIVE"
+        },
+        {
+          "account_type": "Individual",
+          "lender_name": "ICICI BANK",
+          "account_number": "XXXXXX12",
+          "opening_date": "2020-03-25",
+          "current_balance": 80000,
+          "overdue_amount": 0,
+          "status": "CLOSED"
+        }
+      ]
+    },
+    "ENQUIRIES": {
+      "total_enquiries": 5,
+      "recent_enquiries": 2
+    },
+    "OPTIONAL_FIELDS": {
+      "address": "ICICI Bank, Central Branch, Maharashtra - 441103",
+      "employment_details": "Not specified"
+    }
+  },
+  "confidence_scores": {
+    "report_date": 0.85,
+    "consumer_name": 0.85,
+    "date_of_birth": 0.85,
+    "pan_number": 0.85,
+    "CREDIT_SCORE": 0.8,
+    "ACCOUNTS": 0.8,
+    "ENQUIRIES": 0.8,
+    "OPTIONAL_FIELDS": 0.8
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T11:59:33.786Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "694935787fbde9671518f858"
+  },
+  "document_id": "doc_bf50faa3a3cc",
+  "document_type": "CIBIL",
+  "extracted_fields": {
+    "report_date": "2025-12-22",
+    "consumer_name": "OMNIK NEMA",
+    "date_of_birth": "1994-06-12",
+    "pan_number": "ABCDE1234A",
+    "CREDIT_SCORE": {
+      "credit_score": 786,
+      "score_range": "300 - 900"
+    },
+    "ACCOUNTS": {
+      "total_accounts": 2,
+      "active_accounts": 2,
+      "closed_accounts": 0,
+      "accounts": [
+        {
+          "account_type": "CREDIT CARD",
+          "lender_name": "HDFC BANK",
+          "account_number": "Not Provided",
+          "opening_date": "Not Provided",
+          "current_balance": 42300,
+          "overdue_amount": 0,
+          "status": "ACTIVE"
+        }
+      ]
+    },
+    "ENQUIRIES": {
+      "total_enquiries": 2,
+      "recent_enquiries": 2
+    },
+    "OPTIONAL_FIELDS": {
+      "address": "At Dodaki PO, Kondhall, Dodki, Nagpur, Maharashtra – 441103",
+      "employment_details": "Not Provided"
+    }
+  },
+  "confidence_scores": {
+    "report_date": 0.85,
+    "consumer_name": 0.85,
+    "date_of_birth": 0.85,
+    "pan_number": 0.85,
+    "CREDIT_SCORE": 0.8,
+    "ACCOUNTS": 0.8,
+    "ENQUIRIES": 0.8,
+    "OPTIONAL_FIELDS": 0.8
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T12:11:36.623Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "69493b257fbde9671518f85a"
+  },
+  "document_id": "doc_e1a2806b07ae",
+  "document_type": "PAN",
+  "extracted_fields": {
+    "name": "OMINK NEMA",
+    "pan_number": "ABCDE1234A",
+    "father_name": "NEMA",
+    "date_of_birth": "2001-12-07",
+    "signature_present": true
+  },
+  "confidence_scores": {
+    "name": 0.85,
+    "pan_number": 0.85,
+    "father_name": 0.7,
+    "date_of_birth": 0.85,
+    "signature_present": 0.9
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T12:35:49.132Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "69493b537fbde9671518f85b"
+  },
+  "document_id": "doc_e1a2806b07ae",
+  "document_type": "PAN",
+  "extracted_fields": {
+    "name": "OMINK NEMA",
+    "pan_number": "ABCDE1234A",
+    "father_name": "NEMA",
+    "date_of_birth": "2001-12-07",
+    "signature_present": true
+  },
+  "confidence_scores": {
+    "name": 0.85,
+    "pan_number": 0.85,
+    "father_name": 0.7,
+    "date_of_birth": 0.85,
+    "signature_present": 0.9
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T12:36:35.656Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "69493bb47fbde9671518f85d"
+  },
+  "document_id": "doc_0f5cbb43a0c0",
+  "document_type": "GST_RETURN",
+  "extracted_fields": {
+    "gstin": "27AABC1234A1Z5",
+    "legal_name": "TECHSOLUTIONS PRIVATE LIMITED",
+    "trade_name": "TechSolutions India",
+    "return_period": "November 2024",
+    "filing_date": "2024-12-20",
+    "total_sales": 4500000,
+    "total_purchases": 2800000,
+    "output_tax": 153000,
+    "input_tax": 252000,
+    "tax_payable": 0,
+    "tax_paid": 0,
+    "address": "Office No. 304, Tower A, Cyber City, Magarpatta, Pune, Maharashtra - 411028",
+    "state": "Maharashtra",
+    "hsn_codes": []
+  },
+  "confidence_scores": {
+    "gstin": 0.85,
+    "legal_name": 0.85,
+    "trade_name": 0.85,
+    "return_period": 0.85,
+    "filing_date": 0.85,
+    "total_sales": 0.9,
+    "total_purchases": 0.9,
+    "output_tax": 0.9,
+    "input_tax": 0.9,
+    "tax_payable": 0.9,
+    "tax_paid": 0.9,
+    "address": 0.85,
+    "state": 0.85,
+    "hsn_codes": 0.75
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-22T12:38:12.180Z"
+  },
+  "version": "1.0"
+},
+{
+  "_id": {
+    "$oid": "694a1fe5d3fcd8dd1784be26"
+  },
+  "document_id": "doc_e1a2806b07ae",
+  "document_type": "PAN",
+  "extracted_fields": {
+    "name": "OMINK NEMA",
+    "pan_number": "ABCDE1234A",
+    "father_name": "NEMA",
+    "date_of_birth": "2001-12-07",
+    "signature_present": true
+  },
+  "confidence_scores": {
+    "name": 0.85,
+    "pan_number": 0.85,
+    "father_name": 0.7,
+    "date_of_birth": 0.85,
+    "signature_present": 0.9
+  },
+  "extraction_timestamp": {
+    "$date": "2025-12-23T04:51:49.412Z"
+  },
+  "version": "1.0"
+}]
