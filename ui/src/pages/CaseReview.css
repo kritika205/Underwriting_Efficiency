@@ -1,0 +1,201 @@
+/* ===== KAARA + CARBON CASE REVIEW ===== */
+
+.case-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;              /* 👈 CURVED */
+  padding: 16px 24px;
+  margin-bottom: 24px;
+}
+
+.case-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #161616;
+}
+
+.case-subtitle {
+  font-size: 12px;
+  color: #6f6f6f;
+}
+
+.case-actions {
+  display: flex;
+  gap: 12px;
+}
+
+.btn-kaara {
+  background: #da1e28;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-kaara-outline {
+  background: transparent;
+  border: 1px solid #da1e28;
+  color: #da1e28;
+  padding: 8px 16px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.doc-tabs {
+  display: flex;
+  gap: 24px;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 16px;
+}
+
+.doc-tab {
+  padding: 12px 4px;
+  font-size: 14px;
+  cursor: pointer;
+  color: #525252;
+}
+
+.doc-tab.active {
+  color: #da1e28;
+  font-weight: 600;
+  border-bottom: 3px solid #da1e28;
+}
+
+.case-card {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 14px;            /* 👈 main curve */
+  padding: 16px;
+  margin-bottom: 24px;
+}
+
+
+.case-table-header,
+.case-table-row {
+  display: grid;
+  grid-template-columns: 2fr 2fr 1.2fr;
+  gap: 16px;
+  padding: 12px 0;
+  align-items: start;
+}
+
+.case-table-header {
+  font-size: 13px;
+  font-weight: 600;
+  border-bottom: 1px solid #e0e0e0;
+  position: sticky;
+  top: 0;
+  background: #ffffff;
+  z-index: 10;
+}
+
+.case-table-header span {
+  padding: 8px 0;
+}
+
+.case-table-row {
+  border-bottom: 1px solid #f3f4f6;
+  font-size: 14px;
+}
+
+.col-field {
+  font-weight: 500;
+  color: #525252;
+}
+
+.col-value {
+  word-break: break-word;
+  line-height: 1.5;
+}
+
+.col-match {
+  font-size: 13px;
+}
+
+/* Nested table styles for complex data */
+.nested-table-container {
+  width: 100%;
+  overflow-x: auto;
+  margin: 8px 0;
+  max-width: 100%;
+}
+
+.nested-table {
+  width: 100%;
+  min-width: 600px;
+  border-collapse: collapse;
+  font-size: 12px;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  overflow: hidden;
+  table-layout: auto;
+}
+
+.nested-table thead {
+  background: #f4f4f4;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+
+.nested-table th {
+  padding: 10px 12px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 12px;
+  color: #161616;
+  border-bottom: 2px solid #e0e0e0;
+  white-space: nowrap;
+  background: #f4f4f4;
+}
+
+.nested-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #f3f4f6;
+  color: #525252;
+  vertical-align: top;
+  word-break: break-word;
+  max-width: 200px;
+}
+
+.nested-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.nested-table tbody tr:hover {
+  background: #fafafa;
+}
+
+.nested-table tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+
+.nested-table tbody tr:nth-child(even):hover {
+  background: #f0f0f0;
+}
+
+.value-display-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.match-ok {
+  color: #24a148;
+  font-weight: 500;
+}
+
+.match-bad {
+  color: #da1e28;
+  font-weight: 500;
+}
+
+.match-neutral {
+  color: #6f6f6f;
+}
